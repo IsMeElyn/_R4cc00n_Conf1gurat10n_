@@ -1,0 +1,42 @@
+[
+  {
+    id: 1,
+    name: "Lita",
+    category: "Entertainment",
+    displayCategory: "Digital",
+    tags: ["lita", "reading", "novel", "komik"],
+    image: "/en/assets/images/categories/entertainment/lita.webp"
+  },
+  {
+    id: 2,
+    name: "WeTV",
+    category: "Entertainment",
+    displayCategory: "Streaming",
+    tags: ["wetv", "drama", "film", "streaming"],
+    image: "/en/assets/images/categories/entertainment/wetv.webp"
+  },
+  {
+    id: 3,
+    name: "WeSing",
+    category: "Entertainment",
+    displayCategory: "Music",
+    tags: ["wesing", "karaoke", "music"],
+    image: "/en/assets/images/categories/entertainment/wesing.webp"
+  },
+  {
+    id: 4,
+    name: "Bigo Live",
+    category: "Entertainment",
+    displayCategory: "Live Streaming",
+    tags: ["bigo", "live", "streaming"],
+    image: "/en/assets/images/categories/entertainment/bigo.webp"
+  },
+  {
+    id: 5,
+    name: "Spotify",
+    category: "Entertainment",
+    displayCategory: "Music",
+    tags: ["spotify", "music", "podcast", "streaming"],
+    image: "/en/assets/images/categories/entertainment/spotify.webp"
+  }
+]
