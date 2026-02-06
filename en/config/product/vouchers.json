@@ -1,1 +1,98 @@
-
+[
+  {
+    "id": 1,
+    "name": "PSN Voucher",
+    "category": "Voucher",
+    "displayCategory": "Gaming",
+    "tags": ["psn", "playstation", "sony", "console"],
+    "image": "/en/assets/images/categories/voucher/psv.webp"
+  },
+  {
+    "id": 2,
+    "name": "Point Blank Voucher",
+    "category": "Voucher",
+    "displayCategory": "Gaming",
+    "tags": ["point blank", "pb", "zepetto", "fps"],
+    "image": "/en/assets/images/categories/voucher/pbv.webp"
+  },
+  {
+    "id": 3,
+    "name": "Vidio",
+    "category": "Voucher",
+    "displayCategory": "Digital",
+    "tags": ["vidio", "streaming", "tv", "film"],
+    "image": "/en/assets/images/categories/voucher/vido.webp"
+  },
+  {
+    "id": 4,
+    "name": "Arena Breakout Voucher",
+    "category": "Voucher",
+    "displayCategory": "Gaming",
+    "tags": ["arena breakout", "fps", "tactical"],
+    "image": "/en/assets/images/categories/voucher/abv.webp"
+  },
+  {
+    "id": 5,
+    "name": "EA Play Voucher",
+    "category": "Voucher",
+    "displayCategory": "Gaming",
+    "tags": ["ea play", "electronic arts", "subscription"],
+    "image": "/en/assets/images/categories/voucher/eaa.webp"
+  },
+  {
+    "id": 6,
+    "name": "Steam Wallet",
+    "category": "Voucher",
+    "displayCategory": "Gaming",
+    "tags": ["steam", "valve", "pc game", "wallet"],
+    "image": "/en/assets/images/categories/voucher/stm.webp"
+  },
+  {
+    "id": 7,
+    "name": "Xbox",
+    "category": "Voucher",
+    "displayCategory": "Gaming",
+    "tags": ["xbox", "microsoft", "console"],
+    "image": "/en/assets/images/categories/voucher/xbx.webp"
+  },
+  {
+    "id": 8,
+    "name": "Google Play",
+    "category": "Voucher",
+    "displayCategory": "Digital",
+    "tags": ["google play", "android", "playstore"],
+    "image": "/en/assets/images/categories/voucher/playvc.webp"
+  },
+  {
+    "id": 9,
+    "name": "Nintendo eShop",
+    "category": "Voucher",
+    "displayCategory": "Gaming",
+    "tags": ["nintendo", "eshop", "switch"],
+    "image": "/en/assets/images/categories/voucher/ntdo.webp"
+  },
+  {
+    "id": 10,
+    "name": "PLN",
+    "category": "Voucher",
+    "displayCategory": "Utility",
+    "tags": ["pln", "listrik", "token", "utility"],
+    "image": "/en/assets/images/categories/voucher/pln.webp"
+  },
+  {
+    "id": 11,
+    "name": "Garena Shells",
+    "category": "Voucher",
+    "displayCategory": "Gaming",
+    "tags": ["garena", "shells", "top up"],
+    "image": "/en/assets/images/categories/voucher/grna.webp"
+  },
+  {
+    "id": 12,
+    "name": "Blizzard",
+    "category": "Voucher",
+    "displayCategory": "Gaming",
+    "tags": ["blizzard", "battle.net", "diablo", "wow"],
+    "image": "/en/assets/images/categories/voucher/bld.webp"
+  }
+]
