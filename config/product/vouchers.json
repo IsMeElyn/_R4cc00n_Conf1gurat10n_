@@ -5,7 +5,7 @@
     "category": "Voucher",
     "displayCategory": "Gaming",
     "tags": ["psn", "playstation", "sony", "console"],
-    "image": "/en/assets/images/categories/voucher/psv.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/voucher/"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "category": "Voucher",
     "displayCategory": "Gaming",
     "tags": ["point blank", "pb", "zepetto", "fps"],
-    "image": "/en/assets/images/categories/voucher/pbv.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/voucher/"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "category": "Voucher",
     "displayCategory": "Digital",
     "tags": ["vidio", "streaming", "tv", "film"],
-    "image": "/en/assets/images/categories/voucher/vido.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/voucher/"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "category": "Voucher",
     "displayCategory": "Gaming",
     "tags": ["arena breakout", "fps", "tactical"],
-    "image": "/en/assets/images/categories/voucher/abv.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/voucher/"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "category": "Voucher",
     "displayCategory": "Gaming",
     "tags": ["ea play", "electronic arts", "subscription"],
-    "image": "/en/assets/images/categories/voucher/eaa.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/voucher/"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "category": "Voucher",
     "displayCategory": "Gaming",
     "tags": ["steam", "valve", "pc game", "wallet"],
-    "image": "/en/assets/images/categories/voucher/stm.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/voucher/"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "category": "Voucher",
     "displayCategory": "Gaming",
     "tags": ["xbox", "microsoft", "console"],
-    "image": "/en/assets/images/categories/voucher/xbx.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/voucher/"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "category": "Voucher",
     "displayCategory": "Digital",
     "tags": ["google play", "android", "playstore"],
-    "image": "/en/assets/images/categories/voucher/playvc.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/voucher/"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "category": "Voucher",
     "displayCategory": "Gaming",
     "tags": ["nintendo", "eshop", "switch"],
-    "image": "/en/assets/images/categories/voucher/ntdo.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/voucher/"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "category": "Voucher",
     "displayCategory": "Utility",
     "tags": ["pln", "listrik", "token", "utility"],
-    "image": "/en/assets/images/categories/voucher/pln.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/voucher/"
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "category": "Voucher",
     "displayCategory": "Gaming",
     "tags": ["garena", "shells", "top up"],
-    "image": "/en/assets/images/categories/voucher/grna.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/voucher/"
   },
   {
     "id": 12,
@@ -93,6 +93,6 @@
     "category": "Voucher",
     "displayCategory": "Gaming",
     "tags": ["blizzard", "battle.net", "diablo", "wow"],
-    "image": "/en/assets/images/categories/voucher/bld.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/voucher/"
   }
 ]
