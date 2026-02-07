@@ -458,50 +458,48 @@ body {
   display: none;
 }
 
-/* ===== full replacement untuk potongan CSS yang diberikan ===== */
 
-/* dasar kartu */
+
+
 .sale-card {
   position: relative;
-  overflow: hidden;               /* agar background/logo tidak meluber */
+  overflow: hidden;               
   scroll-snap-align: start;
   background: var(--card-bg);
   border-radius: 14px;
   padding: 12px;
   cursor: pointer;
   transition: transform .25s ease, box-shadow .2s ease;
-  min-height: 220px;              /* sesuaikan kalau perlu */
+  min-height: 220px;              
 }
 
-/* efek hover */
+
 .sale-card:hover {
   transform: translateY(-4px);
   box-shadow: 0 10px 30px rgba(0,0,0,.35);
 }
 
-/* LOGO: sekarang full-bleed background yang menggantikan area item */
+
 .game-logo {
   position: absolute;
-  inset: 0;                       /* cover seluruh .sale-card */
-  z-index: 1;                     /* di bawah konten teks */
-  pointer-events: none;           /* supaya klik jatuh ke elemen atas */
+  inset: 0;                       
+  z-index: 1;                     
+  pointer-events: none;           
   border-radius: inherit;
   overflow: hidden;
 }
 
-/* gambar logo memenuhi seluruh area (background) */
+
 .game-logo img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   display: block;
   transform-origin: center;
-  /* opsional: sedikit sharpen/contrast jika perlu:
-     filter: contrast(.98) saturate(1.05); */
+  
 }
 
-/* overlay gradasi di atas logo supaya teks tetap terbaca
-   semakin gelap dari atas -> bawah */
+
 .game-logo::after {
   content: "";
   position: absolute;
@@ -518,13 +516,12 @@ body {
   pointer-events: none;
 }
 
-/* badge kecil di pojok kiri untuk MENUNJUKKAN ITEM YANG DIJUAL
-   (user menyuruh: pojok kiri adalah item yang dijual) */
+
 .sale-item-badge {
   position: absolute;
   top: 10px;
   left: 10px;
-  z-index: 5;                     /* di atas overlay */
+  z-index: 5;                     
   display: inline-flex;
   align-items: center;
   gap: 8px;
@@ -539,7 +536,7 @@ body {
   box-shadow: 0 2px 8px rgba(0,0,0,.28);
 }
 
-/* jika badge berisi gambar kecil produk */
+
 .sale-item-badge img {
   width: 28px;
   height: 28px;
@@ -548,19 +545,18 @@ body {
   border: 1px solid rgba(255,255,255,0.08);
 }
 
-/* SALE IMAGE: tetap ada sebagai konten (opsional).
-   Kalau HTML tidak pakai .sale-img, safe untuk diabaikan. */
+
 .sale-img {
-  position: relative;             /* tetap relatif untuk penempatan badge/stock */
+  position: relative;             
   width: 100%;
   aspect-ratio: 1 / 1;
   overflow: hidden;
   border-radius: 10px;
-  z-index: 3;                      /* di atas logo, di bawah teks utama */
+  z-index: 3;                      
   background: transparent;
 }
 
-/* gambar dalam sale-img jika dipakai */
+
 .sale-img img {
   width: 100%;
   height: 100%;
@@ -570,32 +566,32 @@ body {
   opacity: 0.95;
 }
 
-/* STOCK BADGE: menempel rapi ke sisi kanan, terlihat 'menyatu' */
+
 .sale-stock {
   position: absolute;
   top: 8px;
-  left: 0;                        /* menempel pas di kanan */
+  left: 0;                        
   z-index: 4;
   background: var(--primary-color);
   color: white;
   padding: 6px 12px;
   font-size: 12px;
   font-weight: 800;
-  border-radius: 0 10px 10px 0;    /* membentuk sambungan ke kanan */
-  transform: none;                 /* tidak ada offset */
+  border-radius: 0 10px 10px 0;    
+  transform: none;                 
   box-shadow: -2px 2px 6px rgba(0,0,0,.18);
   border-left: 1px solid rgba(255,255,255,0.06);
 }
 
-/* menjaga teks dan body di atas background/logo */
+
 .sale-body {
   margin-top: 12px;
   text-align: left;
   position: relative;
-  z-index: 5;                       /* pastikan di atas overlay logo */
+  z-index: 5;                       
 }
 
-/* judul */
+
 .sale-title {
   font-size: 14px;
   font-weight: 600;
@@ -604,15 +600,15 @@ body {
   text-shadow: 0 1px 2px rgba(0,0,0,.45);
 }
 
-/* harga lama: lebih abu-abu / muted */
+
 .sale-price-old {
   font-size: 12px;
-  color: #9aa0a6;                 /* abu-abu yang lembut */
+  color: #9aa0a6;                 
   text-decoration: line-through;
   opacity: 0.95;
 }
 
-/* harga sekarang */
+
 .sale-price {
   font-size: 18px;
   font-weight: 700;
@@ -622,7 +618,7 @@ body {
   z-index: 5;
 }
 
-/* responsif kecil: sedikit penyesuaian spacing */
+
 @media (max-width: 420px) {
   .sale-card { padding: 10px; min-height: 200px; }
   .sale-item-badge { padding: 5px 8px; font-size: 11px; gap:6px; }
@@ -754,56 +750,56 @@ body {
   border-radius: 0 0 10px 10px;
 }
 
-/* ===== Grid & container ===== */
+
 .products-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(160px, 1fr)); /* 3 produk per baris */
-  gap: 15px 20px;           /* row-gap 15px (atas/bawah), column-gap 20px (kanan/kiri) */
-  padding: 12px 5px;        /* jarak container: top/bottom 12px, left/right 5px */
+  grid-template-columns: repeat(3, minmax(160px, 1fr)); 
+  gap: 15px 20px;           
+  padding: 12px 5px;        
   box-sizing: border-box;
 }
 
-/* ===== Product card (full-bleed image + overlay + teks) ===== */
+
 .product-card {
   position: relative;
-  overflow: hidden;                /* supaya gambar & overlay tidak meluber keluar border-radius */
+  overflow: hidden;                
   border-radius: 14px;
-  background: var(--card-bg);      /* fallback saat gambar belum load */
-  aspect-ratio: 4 / 5;             /* membuat card lebih panjang (4:5) */
-  min-height: 220px;               /* bisa disesuaikan */
+  background: var(--card-bg);      
+  aspect-ratio: 4 / 5;             
+  min-height: 220px;               
   cursor: pointer;
   transition: transform 0.25s ease, box-shadow 0.25s ease;
   -webkit-tap-highlight-color: transparent;
 }
 
-/* Hover effect */
+
 .product-card:hover {
   transform: translateY(-6px);
   box-shadow: 0 10px 30px rgba(0,0,0,0.25);
 }
 
-/* ==== Background image area (full cover) ==== */
+
 .product-card .card-bg {
   position: absolute;
-  inset: 0;                 /* top:0; right:0; bottom:0; left:0; */
+  inset: 0;                 
   z-index: 1;
-  pointer-events: none;     /* supaya klik jatuh ke atas (mis. tombol) */
+  pointer-events: none;     
 }
 
 .product-card .card-bg img {
   width: 100%;
   height: 100%;
   display: block;
-  object-fit: cover;        /* memastikan crop proporsional tanpa gap */
-  border-radius: inherit;   /* tetap mengikuti lekukan card */
+  object-fit: cover;        
+  border-radius: inherit;   
   transform-origin: center;
-  transition: transform 0.6s ease; /* opsional smooth zoom on hover */
+  transition: transform 0.6s ease; 
 }
 .product-card:hover .card-bg img {
   transform: scale(1.04);
 }
 
-/* ==== Gradient overlay (lebih gelap di bagian bawah) ==== */
+
 .product-card::after {
   content: "";
   position: absolute;
@@ -812,7 +808,7 @@ body {
   pointer-events: none;
   background: linear-gradient(
     to top,
-    rgba(0,0,0,0.82) 0%,     /* bottom sangat gelap */
+    rgba(0,0,0,0.82) 0%,     
     rgba(0,0,0,0.66) 18%,
     rgba(0,0,0,0.48) 40%,
     rgba(0,0,0,0.22) 70%,
@@ -821,23 +817,23 @@ body {
   mix-blend-mode: normal;
 }
 
-/* ==== Konten teks di atas gambar ==== */
-/* jarak dari dinding kiri dan kanan diatur 5px sesuai permintaan */
+
+
 .product-info {
   position: absolute;
-  left: 5px;            /* jarak ke dinding kiri 5px */
-  right: 5px;           /* jarak ke dinding kanan 5px */
-  bottom: 10px;         /* sedikit ruang dari bawah */
+  left: 5px;            
+  right: 5px;           
+  bottom: 10px;         
   z-index: 3;
   text-align: left;
   color: #fff;
   font-family: 'Oswald-Stencil', sans-serif;
 }
 
-/* Judul, kategori, harga -- judul dibuat lebih besar */
+
 .product-card h3 {
   margin: 0 0 6px 0;
-  font-size: 16px;       /* judul agak lebih besar (dari 14px -> 16px) */
+  font-size: 16px;       
   line-height: 1.18;
   font-weight: 700;
   color: #fff;
@@ -851,49 +847,49 @@ body {
   margin-bottom: 6px;
 }
 
-/* ==== Badges / stock yang harus tetap dekat ke dinding kanan/kiri ==== */
+
 .product-stock {
   position: absolute;
   top: 10px;
-  right: 0;                    /* menempel ke dinding kanan (tetap rapi) */
+  right: 0;                    
   z-index: 4;
   background: var(--primary-color);
   color: #fff;
   padding: 7px 12px;
   font-size: 12px;
   font-weight: 800;
-  border-radius: 0 10px 10px 0; /* sambungan rapi ke tepi */
+  border-radius: 0 10px 10px 0; 
   box-shadow: -2px 2px 8px rgba(0,0,0,0.18);
   border-left: 1px solid rgba(255,255,255,0.06);
 }
 
-/* Contoh badge kiri (jika diperlukan) */
+
 .product-badge-left {
   left: 0;
   right: auto;
   border-radius: 10px 0 0 10px;
 }
 
-/* ==== Pendukung: jika ada tombol/ikon di atas gambar ==== */
+
 .product-card .action {
   position: absolute;
   top: 10px;
-  left: 8px;    /* agak masuk 8px dari kiri supaya tidak menempel */
+  left: 8px;    
   z-index: 5;
 }
 
-/* ==== Responsif: penyesuaian untuk layar menengah & kecil ==== */
+
 @media (max-width: 980px) {
   .products-grid {
-    grid-template-columns: repeat(2, minmax(140px, 1fr)); /* 2 kolom di tablet / layar sedang */
-    gap: 14px 18px; /* sedikit penyesuaian jarak bila perlu */
+    grid-template-columns: repeat(2, minmax(140px, 1fr)); 
+    gap: 14px 18px; 
   }
   .product-card { min-height: 210px; }
 }
 
 @media (max-width: 420px) {
   .products-grid {
-    grid-template-columns: repeat(1, minmax(120px, 1fr)); /* 1 kolom di ponsel kecil */
+    grid-template-columns: repeat(1, minmax(120px, 1fr)); 
     padding: 8px 5px;
     gap: 12px 12px;
   }
