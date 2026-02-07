@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Arknights: Endfield",
     "category": "Games",
-    "display": "RPG",
+    "displayCategory": "RPG",
     "tags": ["arknights", "hypergryph", "rpg", "anime"],
     "image": "/en/assets/images/categories/games/arken.webp"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "Ragnarok Twilight",
     "category": "Games",
-    "display": "RPG",
+    "displayCategory": "RPG",
     "tags": ["ragnarok", "gravity", "mmorpg", "anime"],
     "image": "/en/assets/images/categories/games/rgnrk.webp"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Zenless Zone Zero",
     "category": "Games",
-    "display": "Action RPG",
+    "displayCategory": "Action RPG",
     "tags": ["zzz", "mihoyo", "hoyoverse", "action", "anime"],
     "image": "/en/assets/images/categories/games/zzz.webp"
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "name": "Wuthering Waves",
     "category": "Games",
-    "display": "Action RPG",
+    "displayCategory": "Action RPG",
     "tags": ["wuthering", "kuro game", "action rpg", "anime"],
     "image": "/en/assets/images/categories/games/wwa.webp"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "name": "Roblox",
     "category": "Games",
-    "display": "Sandbox",
+    "displayCategory": "Sandbox",
     "tags": ["roblox", "sandbox", "user generated", "ugc"],
     "image": "/en/assets/images/categories/games/rbx.webp"
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "name": "Honor Of Kings",
     "category": "Games",
-    "display": "MOBA",
+    "displayCategory": "MOBA",
     "tags": ["hok", "honor of kings", "tencent", "moba"],
     "image": "/en/assets/images/categories/games/hok.webp"
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "name": "Valorant",
     "category": "Games",
-    "display": "FPS",
+    "displayCategory": "FPS",
     "tags": ["valorant", "riot", "fps", "tactical"],
     "image": "/en/assets/images/categories/games/vlo.webp"
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "name": "PUBG Mobile Global",
     "category": "Games",
-    "display": "Battle Royale",
+    "displayCategory": "Battle Royale",
     "tags": ["pubg", "pubgm", "battle royale", "shooter"],
     "image": "/en/assets/images/categories/games/pubgg.webp"
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "name": "Honkai: Star Rail",
     "category": "Games",
-    "display": "RPG",
+    "displayCategory": "RPG",
     "tags": ["hsr", "honkai", "mihoyo", "turn based"],
     "image": "/en/assets/images/categories/games/hsr.webp"
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "name": "Mobile Legends",
     "category": "Games",
-    "display": "MOBA",
+    "displayCategory": "MOBA",
     "tags": ["moonton", "ml", "mlbb", "moba", "meler"],
     "image": "/en/assets/images/categories/games/mlbb.webp"
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "name": "Free Fire",
     "category": "Games",
-    "display": "Battle Royale",
+    "displayCategory": "Battle Royale",
     "tags": ["free fire", "garena", "ff", "battle royale"],
     "image": "/en/assets/images/categories/games/ff.webp"
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "name": "Free Fire Max",
     "category": "Games",
-    "display": "Battle Royale",
+    "displayCategory": "Battle Royale",
     "tags": ["free fire max", "ffmax", "garena"],
     "image": "/en/assets/images/categories/games/ffmax.webp"
   },
@@ -99,7 +99,7 @@
     "id": 13,
     "name": "Blood Strike",
     "category": "Games",
-    "display": "FPS",
+    "displayCategory": "FPS",
     "tags": ["blood strike", "fps", "shooter"],
     "image": "/en/assets/images/categories/games/bldst.webp"
   },
@@ -107,7 +107,7 @@
     "id": 14,
     "name": "EA SPORTS FC MOBILE",
     "category": "Games",
-    "display": "Sports",
+    "displayCategory": "Sports",
     "tags": ["ea fc", "fifa", "football", "soccer"],
     "image": "/en/assets/images/categories/games/fcm.webp"
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "name": "Genshin Impact",
     "category": "Games",
-    "display": "RPG",
+    "displayCategory": "RPG",
     "tags": ["genshin", "mihoyo", "hoyoverse", "open world", "anime"],
     "image": "/en/assets/images/categories/games/gi.webp"
   },
@@ -123,7 +123,7 @@
     "id": 16,
     "name": "EGGY PARTY",
     "category": "Games",
-    "display": "Party",
+    "displayCategory": "Party",
     "tags": ["eggy party", "party", "casual"],
     "image": "/en/assets/images/categories/games/eggy.webp"
   },
@@ -131,7 +131,7 @@
     "id": 17,
     "name": "Call of Duty Mobile",
     "category": "Games",
-    "display": "FPS",
+    "displayCategory": "FPS",
     "tags": ["codm", "call of duty", "fps", "activision"],
     "image": "/en/assets/images/categories/games/callofdidy.webp"
   },
@@ -139,7 +139,7 @@
     "id": 18,
     "name": "Moonlight Blade M",
     "category": "Games",
-    "display": "MMORPG",
+    "displayCategory": "MMORPG",
     "tags": ["moonlight blade", "mmorpg", "wuxia"],
     "image": "/en/assets/images/categories/games/moonlightblade.webp"
   },
@@ -147,7 +147,7 @@
     "id": 19,
     "name": "Metal Slug: Awakening",
     "category": "Games",
-    "display": "Action",
+    "displayCategory": "Action",
     "tags": ["metal slug", "snk", "action", "arcade"],
     "image": "/en/assets/images/categories/games/mtlslg.webp"
   },
@@ -155,7 +155,7 @@
     "id": 20,
     "name": "Garena Undawn",
     "category": "Games",
-    "display": "Survival",
+    "displayCategory": "Survival",
     "tags": ["undawn", "garena", "survival", "open world"],
     "image": "/en/assets/images/categories/games/undwn.webp"
   },
@@ -163,7 +163,7 @@
     "id": 21,
     "name": "Growtopia",
     "category": "Games",
-    "display": "Sandbox",
+    "displayCategory": "Sandbox",
     "tags": ["growtopia", "sandbox", "pixel"],
     "image": "/en/assets/images/categories/games/gpa.webp"
   },
@@ -171,7 +171,7 @@
     "id": 22,
     "name": "Teamfight Tactics",
     "category": "Games",
-    "display": "Auto Battler",
+    "displayCategory": "Auto Battler",
     "tags": ["tft", "riot", "auto chess"],
     "image": "/en/assets/images/categories/games/ttac.webp"
   },
@@ -179,7 +179,7 @@
     "id": 23,
     "name": "Harry Potter",
     "category": "Games",
-    "display": "RPG",
+    "displayCategory": "RPG",
     "tags": ["harry potter", "wizard", "magic", "rpg"],
     "image": "/en/assets/images/categories/games/hrypt.webp"
   },
@@ -187,7 +187,7 @@
     "id": 24,
     "name": "Seal M - SEA",
     "category": "Games",
-    "display": "MMORPG",
+    "displayCategory": "MMORPG",
     "tags": ["seal m", "mmorpg", "classic"],
     "image": "/en/assets/images/categories/games/slse.webp"
   },
@@ -195,7 +195,7 @@
     "id": 25,
     "name": "Never After",
     "category": "Games",
-    "display": "RPG",
+    "displayCategory": "RPG",
     "tags": ["never after", "fairy tale", "rpg"],
     "image": "/en/assets/images/categories/games/nvar.webp"
   },
@@ -203,7 +203,7 @@
     "id": 26,
     "name": "Omega Legends",
     "category": "Games",
-    "display": "Battle Royale",
+    "displayCategory": "Battle Royale",
     "tags": ["omega legends", "battle royale", "fps"],
     "image": "/en/assets/images/categories/games/omega.webp"
   },
@@ -211,7 +211,7 @@
     "id": 27,
     "name": "Captain Tsubasa: Ace",
     "category": "Games",
-    "display": "Sports",
+    "displayCategory": "Sports",
     "tags": ["tsubasa", "football", "anime"],
     "image": "/en/assets/images/categories/games/ctsb.webp"
   },
@@ -219,7 +219,7 @@
     "id": 28,
     "name": "LifeAfter",
     "category": "Games",
-    "display": "Survival",
+    "displayCategory": "Survival",
     "tags": ["lifeafter", "survival", "zombie"],
     "image": "/en/assets/images/categories/games/lfar.webp"
   },
@@ -227,7 +227,7 @@
     "id": 29,
     "name": "League of Legends: Wild Rift",
     "category": "Games",
-    "display": "MOBA",
+    "displayCategory": "MOBA",
     "tags": ["wild rift", "lol", "riot", "moba"],
     "image": "/en/assets/images/categories/games/lolw.webp"
   },
@@ -235,7 +235,7 @@
     "id": 30,
     "name": "Super Sus",
     "category": "Games",
-    "display": "Party",
+    "displayCategory": "Party",
     "tags": ["super sus", "among us", "party"],
     "image": "/en/assets/images/categories/games/ssus.webp"
   },
@@ -243,7 +243,7 @@
     "id": 31,
     "name": "Sausage Man",
     "category": "Games",
-    "display": "Battle Royale",
+    "displayCategory": "Battle Royale",
     "tags": ["sausage man", "battle royale", "cartoon"],
     "image": "/en/assets/images/categories/games/sausm.webp"
   },
@@ -251,7 +251,7 @@
     "id": 32,
     "name": "Racing Master",
     "category": "Games",
-    "display": "Racing",
+    "displayCategory": "Racing",
     "tags": ["racing master", "racing", "car"],
     "image": "/en/assets/images/categories/games/rctr.webp"
   },
@@ -259,7 +259,7 @@
     "id": 33,
     "name": "Identity V",
     "category": "Games",
-    "display": "Horror",
+    "displayCategory": "Horror",
     "tags": ["identity v", "netease", "horror"],
     "image": "/en/assets/images/categories/games/ittyv.webp"
   },
@@ -267,7 +267,7 @@
     "id": 34,
     "name": "Heroes Evolved",
     "category": "Games",
-    "display": "MOBA",
+    "displayCategory": "MOBA",
     "tags": ["heroes evolved", "moba"],
     "image": "/en/assets/images/categories/games/hred.webp"
   },
@@ -275,7 +275,7 @@
     "id": 35,
     "name": "Lineage2M",
     "category": "Games",
-    "display": "MMORPG",
+    "displayCategory": "MMORPG",
     "tags": ["lineage", "ncsoft", "mmorpg"],
     "image": "/en/assets/images/categories/games/linm.webp"
   },
@@ -283,7 +283,7 @@
     "id": 36,
     "name": "Pixel Gun 3D",
     "category": "Games",
-    "display": "FPS",
+    "displayCategory": "FPS",
     "tags": ["pixel gun", "fps", "block"],
     "image": "/en/assets/images/categories/games/pxlg.webp"
   }
