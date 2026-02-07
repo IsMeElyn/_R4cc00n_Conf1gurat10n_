@@ -5,7 +5,7 @@
     "category": "Games",
     "displayCategory": "RPG",
     "tags": ["arknights", "hypergryph", "rpg", "anime"],
-    "image": "/en/assets/images/categories/games/arken.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "category": "Games",
     "displayCategory": "RPG",
     "tags": ["ragnarok", "gravity", "mmorpg", "anime"],
-    "image": "/en/assets/images/categories/games/rgnrk.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "category": "Games",
     "displayCategory": "Action RPG",
     "tags": ["zzz", "mihoyo", "hoyoverse", "action", "anime"],
-    "image": "/en/assets/images/categories/games/zzz.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "category": "Games",
     "displayCategory": "Action RPG",
     "tags": ["wuthering", "kuro game", "action rpg", "anime"],
-    "image": "/en/assets/images/categories/games/wwa.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "category": "Games",
     "displayCategory": "Sandbox",
     "tags": ["roblox", "sandbox", "user generated", "ugc"],
-    "image": "/en/assets/images/categories/games/rbx.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "category": "Games",
     "displayCategory": "MOBA",
     "tags": ["hok", "honor of kings", "tencent", "moba"],
-    "image": "/en/assets/images/categories/games/hok.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "category": "Games",
     "displayCategory": "FPS",
     "tags": ["valorant", "riot", "fps", "tactical"],
-    "image": "/en/assets/images/categories/games/vlo.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "category": "Games",
     "displayCategory": "Battle Royale",
     "tags": ["pubg", "pubgm", "battle royale", "shooter"],
-    "image": "/en/assets/images/categories/games/pubgg.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "category": "Games",
     "displayCategory": "RPG",
     "tags": ["hsr", "honkai", "mihoyo", "turn based"],
-    "image": "https://pointgo.id/assets/images/games/1684996295_1e8174d17ac00e6f7273.png"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "category": "Games",
     "displayCategory": "MOBA",
     "tags": ["moonton", "ml", "mlbb", "moba", "meler"],
-    "image": "/en/assets/images/categories/games/mlbb.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "category": "Games",
     "displayCategory": "Battle Royale",
     "tags": ["free fire", "garena", "ff", "battle royale"],
-    "image": "/en/assets/images/categories/games/ff.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "category": "Games",
     "displayCategory": "Battle Royale",
     "tags": ["free fire max", "ffmax", "garena"],
-    "image": "/en/assets/images/categories/games/ffmax.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "category": "Games",
     "displayCategory": "FPS",
     "tags": ["blood strike", "fps", "shooter"],
-    "image": "/en/assets/images/categories/games/bldst.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "category": "Games",
     "displayCategory": "Sports",
     "tags": ["ea fc", "fifa", "football", "soccer"],
-    "image": "/en/assets/images/categories/games/fcm.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "category": "Games",
     "displayCategory": "RPG",
     "tags": ["genshin", "mihoyo", "hoyoverse", "open world", "anime"],
-    "image": "/en/assets/images/categories/games/gi.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "category": "Games",
     "displayCategory": "Party",
     "tags": ["eggy party", "party", "casual"],
-    "image": "/en/assets/images/categories/games/eggy.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 17,
@@ -133,7 +133,7 @@
     "category": "Games",
     "displayCategory": "FPS",
     "tags": ["codm", "call of duty", "fps", "activision"],
-    "image": "/en/assets/images/categories/games/callofdidy.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@
     "category": "Games",
     "displayCategory": "MMORPG",
     "tags": ["moonlight blade", "mmorpg", "wuxia"],
-    "image": "/en/assets/images/categories/games/moonlightblade.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "category": "Games",
     "displayCategory": "Action",
     "tags": ["metal slug", "snk", "action", "arcade"],
-    "image": "/en/assets/images/categories/games/mtlslg.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 20,
@@ -157,7 +157,7 @@
     "category": "Games",
     "displayCategory": "Survival",
     "tags": ["undawn", "garena", "survival", "open world"],
-    "image": "/en/assets/images/categories/games/undwn.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 21,
@@ -165,7 +165,7 @@
     "category": "Games",
     "displayCategory": "Sandbox",
     "tags": ["growtopia", "sandbox", "pixel"],
-    "image": "/en/assets/images/categories/games/gpa.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 22,
@@ -173,7 +173,7 @@
     "category": "Games",
     "displayCategory": "Auto Battler",
     "tags": ["tft", "riot", "auto chess"],
-    "image": "/en/assets/images/categories/games/ttac.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 23,
@@ -181,7 +181,7 @@
     "category": "Games",
     "displayCategory": "RPG",
     "tags": ["harry potter", "wizard", "magic", "rpg"],
-    "image": "/en/assets/images/categories/games/hrypt.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 24,
@@ -189,7 +189,7 @@
     "category": "Games",
     "displayCategory": "MMORPG",
     "tags": ["seal m", "mmorpg", "classic"],
-    "image": "/en/assets/images/categories/games/slse.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 25,
@@ -197,7 +197,7 @@
     "category": "Games",
     "displayCategory": "RPG",
     "tags": ["never after", "fairy tale", "rpg"],
-    "image": "/en/assets/images/categories/games/nvar.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 26,
@@ -205,7 +205,7 @@
     "category": "Games",
     "displayCategory": "Battle Royale",
     "tags": ["omega legends", "battle royale", "fps"],
-    "image": "/en/assets/images/categories/games/omega.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 27,
@@ -213,7 +213,7 @@
     "category": "Games",
     "displayCategory": "Sports",
     "tags": ["tsubasa", "football", "anime"],
-    "image": "/en/assets/images/categories/games/ctsb.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 28,
@@ -221,7 +221,7 @@
     "category": "Games",
     "displayCategory": "Survival",
     "tags": ["lifeafter", "survival", "zombie"],
-    "image": "/en/assets/images/categories/games/lfar.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 29,
@@ -229,7 +229,7 @@
     "category": "Games",
     "displayCategory": "MOBA",
     "tags": ["wild rift", "lol", "riot", "moba"],
-    "image": "/en/assets/images/categories/games/lolw.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 30,
@@ -237,7 +237,7 @@
     "category": "Games",
     "displayCategory": "Party",
     "tags": ["super sus", "among us", "party"],
-    "image": "/en/assets/images/categories/games/ssus.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 31,
@@ -245,7 +245,7 @@
     "category": "Games",
     "displayCategory": "Battle Royale",
     "tags": ["sausage man", "battle royale", "cartoon"],
-    "image": "/en/assets/images/categories/games/sausm.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 32,
@@ -253,7 +253,7 @@
     "category": "Games",
     "displayCategory": "Racing",
     "tags": ["racing master", "racing", "car"],
-    "image": "/en/assets/images/categories/games/rctr.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 33,
@@ -261,7 +261,7 @@
     "category": "Games",
     "displayCategory": "Horror",
     "tags": ["identity v", "netease", "horror"],
-    "image": "/en/assets/images/categories/games/ittyv.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 34,
@@ -269,7 +269,7 @@
     "category": "Games",
     "displayCategory": "MOBA",
     "tags": ["heroes evolved", "moba"],
-    "image": "/en/assets/images/categories/games/hred.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 35,
@@ -277,7 +277,7 @@
     "category": "Games",
     "displayCategory": "MMORPG",
     "tags": ["lineage", "ncsoft", "mmorpg"],
-    "image": "/en/assets/images/categories/games/linm.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   },
   {
     "id": 36,
@@ -285,6 +285,6 @@
     "category": "Games",
     "displayCategory": "FPS",
     "tags": ["pixel gun", "fps", "block"],
-    "image": "/en/assets/images/categories/games/pxlg.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/games/"
   }
 ]
