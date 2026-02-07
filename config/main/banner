@@ -1,0 +1,18 @@
+[
+    {
+        "image": "https://cdn.elyn.my.id/assets/images/banner/1.png",
+        "url": "https://example.com/banner-1"
+    },
+    {
+        "image": "https://cdn.elyn.my.id/assets/images/banner/1.png",
+        "url": "https://example.com/banner-2"
+    },
+    {
+        "image": "https://cdn.elyn.my.id/assets/images/banner/1.png",
+        "url": "https://example.com/banner-3"
+    },
+    {
+        "image": "https://cdn.elyn.my.id/assets/images/banner/1.png",
+        "url": "https://example.com/banner-4"
+    }
+]
