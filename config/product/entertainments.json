@@ -5,7 +5,7 @@
     "category": "Entertainment",
     "displayCategory": "Digital",
     "tags": ["lita", "reading", "novel", "komik"],
-    "image": "/en/assets/images/categories/entertainment/lita.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/entertainment/"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "category": "Entertainment",
     "displayCategory": "Streaming",
     "tags": ["wetv", "drama", "film", "streaming"],
-    "image": "/en/assets/images/categories/entertainment/wetv.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/entertainment/"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "category": "Entertainment",
     "displayCategory": "Music",
     "tags": ["wesing", "karaoke", "music"],
-    "image": "/en/assets/images/categories/entertainment/wesing.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/entertainment/"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "category": "Entertainment",
     "displayCategory": "Live Streaming",
     "tags": ["bigo", "live", "streaming"],
-    "image": "/en/assets/images/categories/entertainment/bigo.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/entertainment/"
   },
   {
     "id": 5,
@@ -37,6 +37,6 @@
     "category": "Entertainment",
     "displayCategory": "Music",
     "tags": ["spotify", "music", "podcast", "streaming"],
-    "image": "/en/assets/images/categories/entertainment/spotify.webp"
+    "image": "https://cdn.elyn.my.id/assets/images/categories/entertainment/"
   }
 ]
