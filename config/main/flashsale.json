@@ -1,0 +1,47 @@
+[
+  {
+    "name": "875 Diamond",
+    "logo": "https://genz.id/wp-content/uploads/2025/12/game-mobile-legends-2.jpg",
+    "img": "https://cdn.unipin.com/images/merchant_denominations/1734510446-icon-8.png",
+    "price": "Rp 210.394",
+    "oldPrice": "Rp 225.788",
+    "stock": 19,
+    "url": "#"
+  },
+  {
+    "name": "4830 Diamond",
+    "logo": "https://genz.id/wp-content/uploads/2025/12/game-mobile-legends-2.jpg",
+    "img": "https://cdn.unipin.com/images/merchant_denominations/1734510446-icon-8.png",
+    "price": "Rp 1.173.816",
+    "oldPrice": "Rp 1.259.705",
+    "stock": 20,
+    "url": "#"
+  },
+  {
+    "name": "Weekly Pass",
+    "logo": "https://genz.id/wp-content/uploads/2025/12/game-mobile-legends-2.jpg",
+    "img": "https://kaleoz-media.seagmcdn.com/kaleoz-store/202507/oss-5688309140de008981f3f4ea00164752.png",
+    "price": "Rp 27.000",
+    "oldPrice": "Rp 35.000",
+    "stock": 12,
+    "url": "#"
+  },
+  {
+    "name": "Blessing Weelkin Moon",
+    "logo": "https://i.pinimg.com/736x/2a/2e/30/2a2e30609a86aef0b852ce82b6e32713.jpg",
+    "img": "https://sin1.contabostorage.com/20ab04d5e89c402888b2ba814feec970:xc-alk12091as-assets-10x129-empeshop/media/file-1699385217-dp0fd3ui-originalgenshin-bwm-min.png?w=48&q=75",
+    "price": "Rp 140.000",
+    "oldPrice": "Rp 165.000",
+    "stock": 30,
+    "url": "#"
+  },
+  {
+    "name": "Express Supply Pass",
+    "logo": "https://d.itechpost.com/en/full/112891/honkai-star-rail-key-art-v10.jpg?w=736&f=ed4081b8cb858400f2b426312d0d0e3d",
+    "img": "https://cdn.unipin.com/images/merchant_denominations/1724901770-icon-supply pass.png",
+    "price": "Rp 15.000",
+    "oldPrice": "Rp 20.000",
+    "stock": 100,
+    "url": "#"
+  }
+]
